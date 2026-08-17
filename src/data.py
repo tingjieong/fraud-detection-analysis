@@ -1,4 +1,3 @@
-"""src/data.py — data loading and the split contract."""
 from pathlib import Path
 import pandas as pd
 from sklearn.model_selection import train_test_split
